@@ -1,0 +1,115 @@
+body  {
+	background-color: #ffffe6;
+	
+	margin: 0;
+	
+	
+	
+	
+}
+
+#container  {
+	background-color: #ffffe6;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+header {
+    display: inline;
+	position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 40px;
+	width: 70% 
+	background-color: #ffffe6 ;
+	padding-left: 20px; 
+	font-size: 35px;
+	font-family: Perpetua; 
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+}
+			
+	
+main{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+	
+#main-top{
+	height: 400px;
+	margin-top: 40px;
+}
+#main-top div{
+	width: 450px;
+}
+#main-top-left{
+	float:left;
+}
+#main-top-left h1{
+	font-size: 84px;
+	margin-top: 10px;
+	text-align: left;
+}
+#main-top-right{
+	float: right;
+}
+
+#main-bottom-left {
+font-size: 50px
+} 
+.home-pic {
+	width: 600px;
+	height: 450px;
+}
+#main-bottom div{
+	border: 1px solid black;
+	background-color: #ffffe6;
+	margin-left: 7px;
+	margin-right: 7px;
+	margin-bottom: 20px;
+	width: 300px;
+	display: inline-block; 
+}
+#main-bottom h3{
+	text-align: center;
+	font-size: 	28px;
+}
+footer {
+	text-align: center;
+	font-weight: bold;
+
+	padding-top: 2px;
+	padding-bottom: 2px;
+	background-color: #ffffe6;
+} 
+.icon {
+	height: 50px;
+	width: 50px;
+	display: center;
+}
+#ulnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+#nav {
+  float: left;
+}
+
+#nav a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 12px 10px;
+  text-decoration: none;
+}
+
+#nav a:hover {
+	color: #ffffe6;
+  background-color: #111;
+}
